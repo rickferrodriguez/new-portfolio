@@ -18,7 +18,7 @@ export function Home () {
           usability. Providing scalable and customized web solutions.
         </p>
         <div className='font-semibold mt-4 flex gap-3 [&>a]:shadow [&>a]:shadow-kanagawa-autumnRed text-winter-100 lg:hover:[&>a]:bg-kanagawa-winterRed/40 [&>a]:hover:cursor-pointer'>
-          <a className='flex gap-2 rounded-3xl py-3 px-5' href='https://www.canva.com/design/DAFcc-zuYcU/VlfoBZ5sISVq2qro62-5tw/edit?utm_content=DAFcc-zuYcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' target='_blank' rel='noreferrer'>
+          <a className='flex md:gap-3 gap-1 rounded-3xl md:py-3 md:px-5 p-3' href='https://www.canva.com/design/DAFcc-zuYcU/VlfoBZ5sISVq2qro62-5tw/edit?utm_content=DAFcc-zuYcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' target='_blank' rel='noreferrer'>
             <span>
               <CurriculumIcon />
             </span>{' '}
